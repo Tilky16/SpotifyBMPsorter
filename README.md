@@ -42,4 +42,4 @@ For detailed documentation on Spotify's authorization process and how to use the
 
 By following these steps, you'll be able to authenticate your application with Spotify, allowing it to interact with the Spotify API, including fetching and modifying playlists.
 
-###The application saves your API keys, be aware of that! 
+### The application saves your API keys, be aware of that! 
