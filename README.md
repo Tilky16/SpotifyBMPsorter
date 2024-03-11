@@ -1,4 +1,4 @@
-# Just run the main.py and yeaaah thats it 
+# Sort your Spotify playlist's songs with **SpotifyBMMsorter*
 
 ### DETAILED INSTRUCTIONS 
 
