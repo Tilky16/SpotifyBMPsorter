@@ -1,4 +1,4 @@
-# Sort your Spotify playlist's songs with **SpotifyBMMsorter*
+# Sort your Spotify playlist's songs with **SpotifyBPMsorter**
 
 ### DETAILED INSTRUCTIONS 
 
